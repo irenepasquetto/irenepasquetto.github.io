@@ -1,6 +1,5 @@
 ---
-layout: page
-permalink: /grants/
+layout: about
 title: grants, awards & interviews
 nav: true
 ---
