@@ -1,7 +1,7 @@
 ---
 layout: page
+permalink: /grants/
 title: grants, awards & interviews
-
 nav: true
 ---
 
