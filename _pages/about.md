@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="idss.mit.edu">Affiliations</a>. Address. Contacts. Moto. Etc.
-
+description:
 profile:
   align: right
   image: prof_pic.jpg
