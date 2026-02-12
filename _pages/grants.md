@@ -7,6 +7,8 @@ nav: true
 
 ### Grants and Awards
 
+Research grant (PI). Scaling up Responsibly: An Ethics of Care Approach to Forensic Peer Review. Funder: NSF Award ID 2520718 (2025/2028)
+
 Research grant (Co-PI). How to detect and counteract disinformation operations on Italian digital media. Funder: Italian Ministry of Foreign Affairs (2020/2022)
 
 Research grant (Postdoc). Understanding Misinformation on Mobile Instant Messengers (MIMs) in Developing Countries. PI: Dr. Matthew Baum. Funders: Bill & Melinda Gates Foundation, Omidyar Network (2018/2021)
